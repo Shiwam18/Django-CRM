@@ -1,2 +1,3 @@
 # Django-CRM
 Customer Relationship Management
+In this project i have build customer relationship management website. Tech used in this is "Django" as a framework to builtin the webpage using python programming language. For front-end i have used bootstrap framework, to make my job easy. One can log in or log-out using the options provided, also if the user is new then they can register. Authentication works properly. After entering into the webpage one can view records of different people in a well formatted table. Once authenticated one can update or delete or completely add a new record. Overall the webpage is a learning pakage for new to web development.
